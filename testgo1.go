@@ -21,7 +21,8 @@ import (
 	"github.com/therecipe/qt/widgets"
 )
 
-// this is a change....now corrected. and more,
+// this is a change....now corrected. and more, and now another one from herere
+
 
 func main() {
 	// Create application
