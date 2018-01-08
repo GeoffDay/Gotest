@@ -20,7 +20,8 @@ import (
 
 	"github.com/therecipe/qt/widgets"
 )
-// ythis udhsd a change....
+
+// this is a change....now corrected.
 
 func main() {
 	// Create application
